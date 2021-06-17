@@ -8,11 +8,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science at Jiangxi Science & Technology Normal University.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development as work.
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | Rust | Redis | Flask | MySQL
+- 💻 &nbsp; Python | Rust | Redis | Flask | gRPC
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
